@@ -16,6 +16,7 @@ Es ideal para entornos donde se desea obtener feedback instantáneo de los espec
 4. Revise la salida que incluye el promedio de calificaciones y el detalle de todas las calificaciones válidas ingresadas.
 
 #### Demo:
+(Hagan clic para reproducir este elemento multimedia)
 [![Ejemplo](https://img.youtube.com/vi/sK0f8DxIg7o/0.jpg)](https://www.youtube.com/watch?v=sK0f8DxIg7o)
 
 
