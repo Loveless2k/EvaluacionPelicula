@@ -16,7 +16,9 @@ Es ideal para entornos donde se desea obtener feedback instantáneo de los espec
 4. Revise la salida que incluye el promedio de calificaciones y el detalle de todas las calificaciones válidas ingresadas.
 
 #### Demo:
-[![Demo](https://img.youtube.com/vi/sK0f8DxIg7o/maxresdefault.jpg)](https://www.youtube.com/watch?v=sK0f8DxIg7o)
+[![Ejemplo](https://img.youtube.com/vi/sK0f8DxIg7o/0.jpg)](https://www.youtube.com/watch?v=sK0f8DxIg7o)
+
+
 
 ## Explicación del código:
 El código del programa `EvaluacionPelicula` en Java está diseñado para recopilar y procesar calificaciones de películas dadas por los usuarios, 
